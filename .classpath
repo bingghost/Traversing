@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="lib" path="libs/baidumapapi_base_v4_0_0.jar"/>
+	<classpathentry kind="lib" path="libs/baidumapapi_cloud_v4_0_0.jar"/>
+	<classpathentry kind="lib" path="libs/baidumapapi_map_v4_0_0.jar"/>
+	<classpathentry kind="lib" path="libs/baidumapapi_radar_v4_0_0.jar"/>
+	<classpathentry kind="lib" path="libs/baidumapapi_search_v4_0_0.jar"/>
+	<classpathentry kind="lib" path="libs/baidumapapi_util_v4_0_0.jar"/>
+	<classpathentry kind="lib" path="libs/locSDK_6.13.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
